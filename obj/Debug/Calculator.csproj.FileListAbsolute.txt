@@ -1,0 +1,8 @@
+E:\Industry Connect\Repo\IndsutryConnect_Week1\Calculator\bin\Debug\Calculator.exe.config
+E:\Industry Connect\Repo\IndsutryConnect_Week1\Calculator\bin\Debug\Calculator.exe
+E:\Industry Connect\Repo\IndsutryConnect_Week1\Calculator\bin\Debug\Calculator.pdb
+E:\Industry Connect\Repo\IndsutryConnect_Week1\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Industry Connect\Repo\IndsutryConnect_Week1\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+E:\Industry Connect\Repo\IndsutryConnect_Week1\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Industry Connect\Repo\IndsutryConnect_Week1\Calculator\obj\Debug\Calculator.exe
+E:\Industry Connect\Repo\IndsutryConnect_Week1\Calculator\obj\Debug\Calculator.pdb
